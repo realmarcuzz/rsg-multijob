@@ -1,7 +1,7 @@
 RSGCore = exports['rsg-core']:GetCoreObject()
 
 return {
-    MaxJobs = 1,
+    MaxJobs = 2,
     AllowedMultipleJobs = {
         -- ['LVD86398'] = 5, 
         -- ['QXG67827'] = 2, 
